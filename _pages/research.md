@@ -3,38 +3,24 @@ permalink: /research/
 title: "Research"
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+My research interests are primarily focused on methodological aspects in the development and fair evaluation of clinical prediction models (including machine learning) and have published extensively in this area (see research output or google scholar). My other research interests lie in improving the transparency, openness and quality of health research, where I lead the EQUATOR Network activities in the UK.
 
+In 2010, I established an international initiative to develop the TRIPOD reporting recommendations published in 2015 for studies developing and validating clinical prediction models. I led an update to these recommendations in 2024 to cover models developed using artificial intelligence and machine learning methods (TRIPOD+AI) and large language models (TRIPOD-LLM).
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
+I have also been involved in other guidance for artificial intelligence and machine learning studies in healthcare, including
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
+- STARD-AI: for AI based diagnostic test accuracy studies
+- DECIDE-AI: for early-stage live clinical evaluation of AI systems
+- CONSORT-AI / SPIRIT-AI: for AI intervention studies
+- CHART: for evaluating chatbots providing medical advice 
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+I am also involved in development of risk of bias tools for machine learning diagnostic test accuracy studies (QUADAS-AI) and prediction model studies (PROBAST+AI), and the FUTURE-AI principles for trustworthy and deployable artificial intelligence in healthcare.
 
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+I have also been involved in the development of numerous other reporting guidelines for other study designs, including the
+
+- GATHER statement for studies providing global health estimates
+- AGReMA statement for mediation analyses
+- 2025 update of SPIRIT and CONSORT guidelines for clinical trials
+- SPIRIT-Surrogate and CONSORT-Surrogate for trials with surrogate endpoints
+
+I am also a steering group member, and former co-chair of the international STRATOS Initiative, which aims to provide accessible and accurate guidance in the design and analysis of observational studies, and I currently sit on the external advisory board for the Centre for Open Science Transparency and Openness Promotion Guidelines.
