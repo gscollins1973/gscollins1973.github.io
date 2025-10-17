@@ -24,9 +24,9 @@ repository               : "gscollins1973/gscollins1973.github.io"
 author:
   # Biographic information
   avatar           : "Gary_COLLINS_Headshot.jpg"
-  name             : "Professor Gary S. Collins"
+  name             : "Gary S. Collins"
   pronouns         : # example: "she/her"  
-  bio              : "Professor of Medical Statistic, 125th Anniversary Chair"
+  bio              : "Professor of Medical Statistic, \\125th Anniversary Chair"
   location         : "United Kingdom"
   employer         : "University of Birmingham"
   uri              : # URL
