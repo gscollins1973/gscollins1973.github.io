@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Welcome to my personal webpage"
 title_separator          : "-"
@@ -30,7 +30,7 @@ author:
   location         : "United Kingdom"
   employer         : "University of Birmingham"
   uri              : # URL
-  email            : "g.s.collins@csm.ox.ac.uk" 
+  email            : "g.s.collins@bham.ac.uk" 
 
   # Academic websites
   academia         : # URL
