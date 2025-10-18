@@ -11,4 +11,3 @@ I am a <a href="https://www.birmingham.ac.uk/research/125th-anniversary-fellows-
 
 In 2024 I was the recipient of a <a href="https://www.nihr.ac.uk/people/professor-gary-collins">NIHR Senior Investigator</a> award.
 
-STILL VERY MUCH WORK IN PROGRESS
