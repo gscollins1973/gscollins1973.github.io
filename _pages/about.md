@@ -13,12 +13,12 @@ I am a <a href="https://www.birmingham.ac.uk/research/125th-anniversary-fellows-
 <hr>
 <h1>My research interests include</h1>
 <ul>
-  <li>methodology for clinical prediction models/predictive AI/machine learning</li>
-  <li>methodology for the evaluation and fairness assessment of clinical prediction models</li>
+  <li>methodology for clinical prediction models (inc. predictive AI/machine learning)</li>
+  <li>methodology for evaluation and fairness assessment of clinical prediction models</li>
   <li>reporting standards and guidelines</li>  
+  <li>research transparency</li>
   <li>meta-science</li>
   <li>open science</li>
-  <li>research transparency</li>
 </ul>
 
 
