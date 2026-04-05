@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+personal_pages.Rproj
 
 /.quarto/
 **/*.quarto_ipynb
