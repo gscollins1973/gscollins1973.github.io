@@ -1,0 +1,798 @@
+- section: Selected Work
+  authors: "**Collins GS**, Moons KGM, Dhiman P, Riley RD, Beam AL, Van Calster B, Ghassemi M, Liu X, Reitsma JB, van Smeden M, Boulesteix AL, Camaradou JC, Celi LA, Denaxas S, Denniston AK, Glocker B, Golub RM, Harvey H, Heinze G, Hoffman MM, Kengne AP, Lam E, Lee N, Loder EW, Maier-Hein L, Mateen BA, McCradden MD, Oakden-Rayner L, Ordish J, Parnell R, Rose S, Singh K, Wynants L, Logullo P"
+  year: 2024
+  date: 2024-04-16
+  title: "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods"
+  path: "https://www.bmj.com/content/385/bmj-2023-078378.long"
+  journal: BMJ
+  volume: 385
+  pages: e078378
+  doi: 10.1136/bmj-2023-078378
+  pdf: "https://www.bmj.com/content/bmj/385/bmj-2023-078378.full.pdf"
+  categories: [2024, TRIPOD, artificial intelligence, reporting guideline]
+
+- section: Selected Work
+  authors: "Hopewell S, Chan AW, **Collins GS**, Hróbjartsson A, Moher D, Schulz KF, Runn T, Aggarwal R, Berkwits M, Berlin JA, Bhandari N, Butcher NJ, Campbell MK, Chidebe R, Elbourne D, Farmer A, Fergusson D, Golub RM, Goodman SN, Hoffman T, Ioannidis JPA, Kahan BC, Knowles R, Lamb SE, Lewis S, Loder E, Offringa M, Ravaud P, Richards D, Rockhold FW, Schriger DL, Siegfried N, Staniszewska S, Taylor R, Thabane L, Torgerson D, Vohra S, White IR, Boutron I."
+  year: 2025
+  date: 2025-05-03
+  title: "CONSORT 2025 Statement: updated guideline for reporting randomised trials"
+  path: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00672-5/fulltext"
+  journal: Lancet
+  volume: 405
+  issue: 10489
+  pages: 1633-1640
+  doi: 10.1016/S0140-6736(25)00672-5
+  pdf: "https://www.thelancet.com/action/showPdf?pii=S0140-6736%2825%2900672-5"
+  categories: [2025, reporting guideline, CONSORT, trials]
+
+- section: Peer-reviewed Journal Paper
+  authors: "de Kanter E, Kaul T, Heus P, de Groot TM, Kuijten RH, Reitsma JB, **Collins GS**, Hooft L, Moons KGM, Damen JAA."
+  year: 2026
+  date: 2026-01-20
+  title: "Adherence to TRIPOD+AI guideline: an updated reporting assessment tool"
+  path: "https://doi.org/10.1016/j.jclinepi.2025.112118"
+  journal: Journal of Clinical Epidemiology
+  volume: 191
+  pages: 112118
+  doi: 10.1016/j.jclinepi.2025.112118
+  categories: [2026, reporting, artificial intelligence, TRIPOD, prediction models]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Riley RD, **Collins GS**, Archer L, Whittle R, Legha A, Kirton L, Dhiman P, Sadatsafavi M, Adderley NJ, Alderman J, Martin GP, Ensor J"
+  year: 2025
+  date: 2025-12-16
+  title: "A decomposition of Fisher's information to inform sample size for developing or updating fair and precise clinical prediction models - part 2: time-to-event outcomes"
+  path: "https://doi.org/10.1186/s41512-025-00204-9"
+  journal: Diagnostic and Prognostic Research
+  volume: 9
+  pages: 33
+  doi: 10.1186/s41512-025-00204-9
+  pdf: "https://link.springer.com/content/pdf/10.1186/s41512-025-00204-9.pdf"
+  categories: [2025, sample size, prediction models]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Kahan BC, Bahti M, Bi D, Bretz F, **Collins GS**, Copas A, Harhay MO, Li F, Auriemma CL"
+  year: 2025
+  date: 2025-12-18
+  title: "Development of a consensus extension of the estimands framework for cluster randomised trials (CRT-estimands): results from an international Delphi study."
+  path: "https://doi.org/10.1186/s13063-025-09352-1"
+  journal: Trials
+  volume: 27
+  pages: 70
+  doi: 10.1186/s13063-025-09352-1
+  pdf: "https://link.springer.com/content/pdf/10.1186/s13063-025-09352-1_reference.pdf"
+  categories: [2025, cluster trials, trials, estimands]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Collins GS**, Deeks JJ"
+  year: 2025
+  date: 2025-12-17
+  title: "The making of a statistician: Doug Altman"
+  path: "https://doi.org/10.1136/bmj.r2616"
+  journal: BMJ
+  volume: 391
+  pages: r2616
+  doi: 10.1136/bmj.r2616
+  pdf: "https://www.bmj.com/content/bmj/391/bmj.r2616.full.pdf"
+  categories: [2025]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Deeks JJ, **Collins GS**"
+  year: 2025
+  date: 2025-12-17
+  title: New Year’s resolutions to push you past Doug Altman’s 1 060 928 citations
+  path: "https://doi.org/10.1136/bmj.r2550"
+  journal: BMJ
+  volume: 391
+  pages: r2550
+  doi: 10.1136/bmj.r2550
+  pdf: "https://www.bmj.com/content/391/bmj.r2550"
+  categories: [2025]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Legha A, Ensor J, Whittle R, Archer L, Van Calster B, Christodoulou E, Snell KIE, Sadatsafavi M, **Collins GS**, Riley RD."
+  year: 2025
+  date: 2025-12-19
+  title: Sequential sample size calculations and learning curves safeguard the robust development of a clinical prediction model for individuals
+  path: "https://linkinghub.elsevier.com/retrieve/pii/S0895435625004500"
+  journal: Journal of Clinical Epidemiology
+  volume: 191
+  pages: 112117
+  doi: 10.1016/j.jclinepi.2025.112117
+  pdf: "https://www.jclinepi.com/action/showPdf?pii=S0895-4356%2825%2900450-0"
+  categories: [2025, sample size, prediction models]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Lawrence NR, Bacila I, Tonge J, Tucker A, Dawson J, Lang ZQ, Krone NP, Dhiman P, **Collins GS**."
+  year: 2025
+  date: 2025-12-15
+  title: "Risk of bias in machine learning and statistical models to predict height or weight: a systematic review in fetal and paediatric medicine."
+  path: "https://link.springer.com/article/10.1186/s41512-025-00215-6"
+  journal: Diagnostic and Prognostic Research
+  volume: 9
+  pages: 32
+  doi: 10.1186/s41512-025-00215-6
+  pdf: "https://link.springer.com/content/pdf/10.1186/s41512-025-00215-6.pdf"
+  categories: [2025, prediction models, meta-science]
+
+- section: Selected Work
+  authors: "Van Calster B, **Collins GS**, Vickers AJ, Wynants L, Kerr KF, Barrenada L, Varoquaux G, Singh P, Moons KGM, Hernandez-Boussard T, Timmerman D, McLernon DJ, van Smeden M, Steyerberg EW."
+  year: 2025
+  date: 2025-12-12
+  title: "Evaluation of performance measures in predictive artificial intelligence models to support medical decisions: overview and guidance"
+  path: "https://doi.org/10.1016/j.landig.2025.100916"
+  journal: Lancet Digital Health
+  volume: 7
+  pages: 100916
+  doi: 10.1016/j.landig.2025.100916
+  pdf: "https://www.thelancet.com/action/showPdf?pii=S2589-7500%2825%2900098-6"
+  categories: [2025, prediction models, validation, performance measures]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Fields KG, Milner GDM, Ma J, Dhiman P, Redfern OC, Karamnov S, He J, Gerry S, Alhassan H, Providencia R, Lip GYH, Bedford JP, Clifton DA, O'Brien B, Watkinson PJ, **Collins GS**, Muehlschlegel JD"
+  year: 2025
+  date: 2025-12-01
+  title: "Multivariable Prediction Models for Atrial Fibrillation after Cardiac Surgery: A Systematic Review and Critical Appraisal"
+  path: "https://doi.org/10.1097/ALN.0000000000005665"
+  journal: Anesthesiology
+  volume: 143
+  issue: 6
+  pages: 1643-1655
+  doi: 10.1097/ALN.0000000000005665
+  pdf: "https://journals.lww.com/anesthesiology/fulltext/2025/12000/multivariable_prediction_models_for_atrial.26.aspx"
+  categories: [2025, prediction models, meta-science]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Huo B, **Collins GS**, Cacciamani GE, Guyatt G."
+  year: 2025
+  date: 2025-11-07
+  title: "Reporting guidelines for studies involving generative artificial intelligence applications: what do I use and when?"
+  path: "https://www.nature.com/articles/s41746-025-02113-z"
+  journal: npj Digital Medicine
+  volume: 8
+  pages: 646
+  doi: 10.1038/s41746-025-02113-z
+  pdf: "https://www.nature.com/articles/s41746-025-02113-z.pdf"
+  categories: [2025, reporting, artificial intelligence]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Barreñada L, Ledger A, Kotlarz A, Dhiman P, **Collins GS**, Wynants L, Verbakel JY, Timmerman D, Valentin L, Van Calster B."
+  year: 2025
+  date: 2025-10-07
+  title: "Head-to-head comparison of the RMI and ADNEX models to estimate the risk of ovarian malignancy: a systematic review and meta-analysis of external validation studies"
+  path: "https://bmjopen.bmj.com/content/15/10/e104141"
+  journal: BMJ Open
+  volume: 15
+  pages: e10414
+  doi: 10.1136/bmjopen-2025-100141
+  pdf: "https://bmjopen.bmj.com/content/bmjopen/15/10/e104141.full.pdf"
+  categories: [2025, prediction models]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Matos J, Dhiman P, **Collins GS**"
+  year: 2026
+  date: 2026-03-16
+  title: Clarifying the SOFA-2 score
+  path: "https://jamanetwork.com/journals/jama/article-abstract/2846533"
+  journal: JAMA
+  doi: 10.1001/jama.2026.0310
+  categories: [2026, prediction models, letter]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Pollard T, Sounack T, Celi LA, Lindvall C, Lee H, Lee HC, Moons KGM, **Collins GS**"
+  year: 2026
+  date: 2026-02-10
+  title: Protocol for development of a reporting guideline (TRIPOD-Code) for code repositories associated with diagnostic and prognostic prediction model studies
+  path: "https://link.springer.com/article/10.1186/s41512-025-00217-4"
+  journal: Diagnostic and Prognostic Research
+  volume: 10
+  pages: 4
+  doi: 10.1186/s41512-025-00217-4
+  pdf: "https://link.springer.com/content/pdf/10.1186/s41512-025-00217-4.pdf"
+  categories: [2026, TRIPOD, code, protocol]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Luney M, Holdsworth L, Hagana A, Kaimskaite V, Qui L, Berner J, Pattinson K, Nanchahal J, **Collins GS**, Costa M"
+  year: 2026
+  date: 2026-02-12
+  title: "Effectiveness of drug interventions to prevent delirium after surgery: a systematic review and network meta-analysis of randomized controlled trials"
+  path: "https://doi.org/10.1136/bmj-2025-085539"
+  journal: BMJ
+  volume: 392
+  pages: e085539
+  doi: 10.1136/bmj-2025-085539
+  pdf: "https://www.bmj.com/content/bmj/392/bmj-2025-085539.full.pdf"
+  categories: [2026, network meta-analysis]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Kuo R, O’Hanlon C, Smith J, Hill R, Papiez B, **Collins GS**, Furniss D, Tutton L"
+  year: 2026
+  date: 2026-02-08
+  title: "Public perceptions of health data sharing for artificial intelligence research: a qualitative focus group study in the UK"
+  path: "https://doi.org/10.1136/bmjdhai-2025-000239"
+  journal: BMJ Digital Health & AI
+  volume: 2
+  pages: e000239
+  doi: 10.1136/bmjdhai-2025-000239
+  categories: [2026, artificial intelligence]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Car LT, Wong TY, Majeed A, **Collins GS**"
+  year: 2026
+  date: 2026-01-28
+  title: Artificial intelligence and the future of evidence-based medicine
+  path: "https://doi.org/10.1038/s44360-025-00002-z"
+  journal: Nature Health
+  volume: 1
+  pages: 268-271
+  doi: 10.1038/s44360-025-00002-z
+  categories: [2026, artificial intelligence]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Torchin H, Dhiman P, Ancel PY, Durrmeyer X, Jareau PH, Nuytten A, Truffert P, Zeitlin J, **Collins GS**"
+  year: 2026
+  date: 2025-06-12
+  title: "Early prediction of death or bronchopulmonary dysplasia in very preterm infants: comparison of modelling methods, development and validation studies"
+  path: "https://doi.org/10.1038/s41390-025-04170-2"
+  journal: Pediatric Research
+  volume: 99
+  pages: 88-95
+  doi: 10.1038/s41390-025-04170-2
+  pdf: "https://www.nature.com/articles/s41390-025-04170-2.pdf"
+  categories: [2026, prediction models]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Ong JCL, Ning Y, Yang R, Bitterman DS, Liu X, Tham YC, **Collins GS**, Ting DSW, Amissah-Arthur KN, Sheng B, Tan IBH, Hong C, Goldstein BA, Le PV, Liu Y, Tan HK, Ong MEH, Wagner SK, Denniston AK, Keane PA, Car J, Chapman WW, Moons KGM, Wong TY, Topol E, Liu N"
+  year: 2026
+  date: 2026-01-16
+  title: "Large language models in global health: progress, challenges, and prospects"
+  path: "https://doi.org/10.1038/s44360-025-00024-7"
+  journal: Nature Health
+  volume: 1
+  pages: 35-47
+  doi: 10.1038/s44360-025-00024-7
+  categories: [2026, artificial intelligence, large language models]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Lawrence NR, Panchigar K, Clark S, Cole T, **Collins GS**, Dawson J, Krone N, Wright M"
+  year: 2026
+  date: 2025-07-22
+  title: "Longitudinal modelling of growth in neonates exposed to antenatal steroids to quantify its benefit to final height: a cohort study"
+  path: "https://doi.org/10.1136/archdischild-2025-329091"
+  journal: Archives in Disease in Childhood
+  volume: 111
+  pages: 56-61
+  doi: 10.1136/archdischild-2025-329091
+  pdf: "https://adc.bmj.com/content/archdischild/111/1/56.full.pdf"
+  categories: [2026, longitudinal study]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Manyara AM, Stewart D, Markham S, Worrall A, Harris R, Davies P, Weir CJ, Young AE, Blazeby J, Butcher NJ, Bujkiewicz S, Chan AW, Dawoud D, Offringa M, Ouwens M, **Collins GS**, Ross JR, Taylor RS, Ciani O"
+  year: 2025
+  date: 2025-12-04
+  title: "Patient and public involvement in trial methodology research: process, experiences, reflections, and recommendations from the SPIRIT|CONSORT-Surrogate project"
+  path: "https://doi.org/10.1186/s40900-025-00807-y"
+  journal: Research Involvement and Engagement
+  volume: 11
+  pages: 144
+  doi: 10.1186/s40900-025-00807-y
+  pdf: "https://link.springer.com/content/pdf/10.1186/s40900-025-00807-y.pdf"
+  categories: [2025, patient and public involvement, CONSORT, trials]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Kuo R, Soltan A, O’Hanlon C, Hasanic A, Clifton D, **Collins  GS**, Furniss D, Eyre D"
+  year: 2025
+  date: 2025-12-19
+  title: "Benchmarking transformer-based models for medical record deidentification: a single centre, multi-specialty evaluation"
+  path: "https://doi.org/10.1016/j.isci.2025.113732"
+  journal: iScience
+  volume: 28
+  issue: 12
+  pages: 113732
+  doi: 10.1016/j.isci.2025.113732
+  pdf: "https://www.cell.com/action/showPdf?pii=S2589-0042%2825%2901993-5"
+  categories: [2025, artificial intelligence, large language models]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Pineda-Moncusi M, Allery F, Abbasizanjani H, Powell D, Prats-Uribe A, Thygesen JH, Wood A, Tomlinson C, Banerjee A, Akbari A, Delmestri A, Coates L, Denaxas S, Khunti K, **Collins GS**, Prieto-Alhambra D, Khalid S"
+  year: 2025
+  date: 2025-07-02
+  title: Ethnic disparities in COVID-19 mortality and cardiovascular disease in England and Wales between 2020-2022
+  path: "https://doi.org/10.1038/s41467-025-59951-4"
+  journal: Nature Communications
+  volume: 16
+  pages: 6059
+  doi: 10.1038/s41467-025-59951-4
+  pdf: "https://www.nature.com/articles/s41467-025-59951-4.pdf"
+  categories: [2025, covid, ethnicity]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Whittle R, Ensor J, Archer L, **Collins  GS**, Dhiman P, Denniston A, Alderman J, Legha A, van Smeden M, Moons KG, Cazier JB, Riley RD, Snell KIE"
+  year: 2025
+  date: 2025-07-01
+  title: Extended sample size calculations for evaluation of prediction models using a threshold for classification
+  path: "https://doi.org/10.1186/s12874-025-02592-4"
+  journal: BMC Medical Research Methodology
+  volume: 25
+  pages: 170
+  doi: 10.1186/s12874-025-02592-4
+  pdf: "https://link.springer.com/content/pdf/10.1186/s12874-025-02592-4.pdf"
+  categories: [2025, sample size, prediction models]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Safiri S, Amiri F, Karamzad N, Sullman MJM, Mansournia MA, **Collins GS**, Şahin F, Kolahi AA"
+  year: 2025
+  title: "Global health effects of osteopenia and osteoporosis, 1990-2021"
+  path: "https://doi.org/10.1002/hsr2.71378"
+  journal: Health Science Reports
+  volume: 8
+  issue: 10
+  pages: e71378
+  doi: 10.1002/hsr2.71378
+  pdf: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12546677/pdf/HSR2-8-e71378.pdf"
+  categories: [2025]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Collins GS**, Chester-Jones M, Gerry S, Ma J, Matos J, Sehjal J, Tsegaye B, Dhiman P"
+  year: 2025
+  date: 2025-10-07
+  title: "Clinical prediction models using machine learning in oncology: challenges and recommendations"
+  path: "https://doi.org/10.1136/bmjonc-2025-000914"
+  journal: BMJ Oncology
+  volume: 4
+  pages: e000914
+  doi: 10.1136/bmjonc-2025-000914
+  pdf: "https://bmjoncology.bmj.com/content/bmjonc/4/1/e000914.full.pdf"
+  categories: [2025, prediction models, open science, machine learning]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Zhang X, Ferry J, Hewson DW, **Collins GS**, Wiles MD, Zhao Y, Martindale APL, Tomaschek M, Bowness JS"
+  year: 2025
+  date: 2025-09-18
+  title: "Guidance for reporting artificial intelligence technology evaluations in ultrasound scanning for regional anaesthesia (GRAITE-USRA): an international multidisciplinary consensus reporting framework"
+  path: "https://doi.org/10.1111/anae.16733"
+  journal: Anaesthesia
+  volume: 80
+  pages: 1528-1539
+  doi: 10.1111/anae.16733
+  pdf: "https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/epdf/10.1111/anae.16733"
+  categories: [2025, reporting guideline, artificial intelligence]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Sounderajah V, Guni A, Liu X, **Collins GS**, Karthikesalingam A, Markar SR, Golub RM, Denniston AK, Shetty S, Moher D, Bossuyt PM, Darzi A, Ashrafian H"
+  year: 2025
+  date: 2025-09-15
+  title: "The STARD-AI statement: a reporting guideline for artificial intelligence centred diagnostic test accuracy studies"
+  path: "https://doi.org/10.1038/s41591-025-03953-8"
+  journal: Nature Health
+  volume: 31
+  pages: 3283-3289
+  doi: 10.1038/s41591-025-03953-8
+  pdf: "https://www.nature.com/articles/s41591-025-03953-8.pdf"
+  categories: [2025, reporting guideline, artificial intelligence]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Bedford J, Redfern O, Gerry S, Hatch RA, Keating L, Clifton DA, **Collins GS**, Watkinson PJ"
+  year: 2025
+  date: 2025-09-09
+  title: "Development and external validation of a clinical prediction model for new-onset atrial fibrillation in intensive care: a multicentre, retrospective cohort study."
+  path: "https://doi.org/10.1016/j.landig.2025.100896"
+  journal: Lancet Digital Health
+  volume: 7
+  issue: 9
+  pages: 100896
+  doi: 10.1016/j.landig.2025.100896
+  pdf: "https://www.thelancet.com/action/showPdf?pii=S2589-7500%2825%2900078-0"
+  categories: [2025, prediction models]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Ma J, MacCarthy A, Kirtley S, Logullo P, Dhiman P, **Collins GS**"
+  year: 2025
+  date: 2025-10-03
+  title: "Peer review of prediction model studies in oncology needs improvement: A systematic review of open peer review reports from BMC journals"
+  path: "https://doi.org/10.1016/j.jclinepi.2025.111967"
+  journal: Journal of Clinical Epidemiology
+  volume: 188
+  pages: 111967
+  doi: 10.1016/j.jclinepi.2025.111967
+  pdf: "https://www.sciencedirect.com/science/article/pii/S0895435625003002/pdfft?md5=0ecde7f0ebb2bf9f147257a2bcf9a1bf&pid=1-s2.0-S0895435625003002-main.pdf"
+  categories: [2025, peer review, meta-science]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Sekula P, Steinbrenner I, Schultheiss UT, Valveny N, Rebora P, Halabi S, Cadarette SM, Riley RD, **Collins  GS**, Sauerbrei WF, Gail MH"
+  year: 2025
+  date: 2025-08-31
+  title: Design aspects for prognostic factor studies
+  path: "https://doi.org/10.1136/bmjopen-2024-095065"
+  journal: BMJ Open
+  volume: 15
+  pages: e095065
+  doi: 10.1136/bmjopen-2024-095065
+  pdf: "https://bmjopen.bmj.com/content/bmjopen/15/8/e095065.full.pdf"
+  categories: [2025, study design]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Huo B,**Collins GS**, Chartash D, Thirunavukarasu A, Flanagin A, Iorio A, Cacciamani G, Chen X, Liu N, Mathur P, Chan AW, Laine C, Pacella D, Berkwits M, Antoniou SA, Camaradou JC, Canfield C, Mittelman M, Feeney T, Loder E, Agha R, Saha A, Mayol J, Sunjaya A, Ng JY, McKechnie T, Lee Y, Verma N, Stiglic G, McCradden M, Ortenzi M, Meerpohl J, Vandvik PO, Agoritsas T, Samuel D, Frankish H, Anderson M, Yao X, Loeb S, Lokker C, Liu X, Guallar E, Guyatt G"
+  year: 2025
+  date: 2025-08-01
+  title: "Reporting guideline for Chatbot Health Advice Studies: the CHART statement"
+  path: "https://doi.org/10.1136/bmjmed-2025-001632"
+  journal: BMJ Medicine
+  volume: 4
+  pages: e001632
+  doi: 10.1136/bmjmed-2025-001632
+  pdf: "https://bmjmedicine.bmj.com/content/bmjmed/4/1/e001632.full.pdf"
+  categories: [2025, artificial intelligence, large language models, reporting guideline]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Huo B,**Collins GS**, Chartash D, Thirunavukarasu A, Flanagin A, Iorio A, Cacciamani G, Chen X, Liu N, Mathur P, Chan AW, Laine C, Pacella D, Berkwits M, Antoniou SA, Camaradou JC, Canfield C, Mittelman M, Feeney T, Loder E, Agha R, Saha A, Mayol J, Sunjaya A, Ng JY, McKechnie T, Lee Y, Verma N, Stiglic G, McCradden M, Ortenzi M, Meerpohl J, Vandvik PO, Agoritsas T, Samuel D, Frankish H, Anderson M, Yao X, Loeb S, Lokker C, Liu X, Guallar E, Guyatt G"
+  year: 2025
+  date: 2025-08-12
+  title: "Reporting guideline for chatbot health advice studies: The CHART statement"
+  path: "https://doi.org/10.1016/j.artmed.2025.103222"
+  journal: Artificial Intelligence in Medicine
+  volume: 168
+  pages: 103222
+  doi: 10.1016/j.artmed.2025.103222
+  pdf: "https://www.sciencedirect.com/science/article/pii/S0933365725001575/pdfft?md5=973ff5aea790288b224ff686366ddc40&pid=1-s2.0-S0933365725001575-main.pdf"
+  categories: [2025, artificial intelligence, large language models, reporting guideline]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Huo B,**Collins GS**, Chartash D, Thirunavukarasu A, Flanagin A, Iorio A, Cacciamani G, Chen X, Liu N, Mathur P, Chan AW, Laine C, Pacella D, Berkwits M, Antoniou SA, Camaradou JC, Canfield C, Mittelman M, Feeney T, Loder E, Agha R, Saha A, Mayol J, Sunjaya A, Ng JY, McKechnie T, Lee Y, Verma N, Stiglic G, McCradden M, Ortenzi M, Meerpohl J, Vandvik PO, Agoritsas T, Samuel D, Frankish H, Anderson M, Yao X, Loeb S, Lokker C, Liu X, Guallar E, Guyatt G"
+  year: 2025
+  date: 2025-08-01
+  title: "Reporting guideline for chatbot health advice studies: The CHART statement"
+  path: "https://doi.org/10.1370/afm.250386"
+  journal: Annals of Family Medicine
+  volume: 23
+  pages: 389-398
+  doi: 10.1370/afm.250386
+  pdf: "https://www.annfammed.org/content/annalsfm/early/2025/07/29/afm.250386.full.pdf"
+  categories: [2025, artificial intelligence, large language models, reporting guideline]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Huo B,**Collins GS**, Chartash D, Thirunavukarasu A, Flanagin A, Iorio A, Cacciamani G, Chen X, Liu N, Mathur P, Chan AW, Laine C, Pacella D, Berkwits M, Antoniou SA, Camaradou JC, Canfield C, Mittelman M, Feeney T, Loder E, Agha R, Saha A, Mayol J, Sunjaya A, Ng JY, McKechnie T, Lee Y, Verma N, Stiglic G, McCradden M, Ortenzi M, Meerpohl J, Vandvik PO, Agoritsas T, Samuel D, Frankish H, Anderson M, Yao X, Loeb S, Lokker C, Liu X, Guallar E, Guyatt G"
+  year: 2025
+  date: 2025-08-01
+  title: "Reporting guideline for chatbot health advice studies: The CHART statement"
+  path: "https://doi.org/10.1093/bjs/znaf142"
+  journal: British Journal of Surgery
+  volume: 112
+  pages: znaf142
+  doi: 10.1093/bjs.znaf142
+  pdf: "https://academic.oup.com/bjs/article-pdf/112/8/znaf142/63903789/znaf142.pdf"
+  categories: [2025, artificial intelligence, large language models, reporting guideline]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Huo B,**Collins GS**, Chartash D, Thirunavukarasu A, Flanagin A, Iorio A, Cacciamani G, Chen X, Liu N, Mathur P, Chan AW, Laine C, Pacella D, Berkwits M, Antoniou SA, Camaradou JC, Canfield C, Mittelman M, Feeney T, Loder E, Agha R, Saha A, Mayol J, Sunjaya A, Ng JY, McKechnie T, Lee Y, Verma N, Stiglic G, McCradden M, Ortenzi M, Meerpohl J, Vandvik PO, Agoritsas T, Samuel D, Frankish H, Anderson M, Yao X, Loeb S, Lokker C, Liu X, Guallar E, Guyatt G"
+  year: 2025
+  date: 2025-08-01
+  title: "Reporting guideline for chatbot health advice studies: The CHART statement"
+  path: "https://doi.org/10.1186/s12916-025-04274-w"
+  journal: BMC Medicine
+  volume: 23
+  pages: 447
+  doi: 10.1186/s12916-025-04274-w
+  pdf: "https://link.springer.com/content/pdf/10.1186/s12916-025-04274-w.pdf"
+  categories: [2025, artificial intelligence, large language models, reporting guideline]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Huo B, Thirunavukarasu A, **Collins GS**, Chartash D, Flanagin A, Iorio A, Cacciamani G, Chen X, Liu N, Mathur P, Chan AW, Laine C, Pacella D, Berkwits M, Antoniou SA, Camaradou JC, Canfield C, Mittelman M, Feeney T, Loder E, Agha R, Saha A, Mayol J, Sunjaya A, Ng JY, McKechnie T, Lee Y, Verma N, Stiglic G, McCradden M, Ortenzi M, Meerpohl J, Vandvik PO, Agoritsas T, Samuel D, Frankish H, Anderson M, Yao X, Loeb S, Lokker C, Liu X, Guallar E, Guyatt G"
+  year: 2025
+  date: 2025-08-01
+  title: "The Chatbot Assessment Reporting Tool (CHART): explanation and elaboration"
+  path: "https://doi.org/10.1136/bmj-2024-083305"
+  journal: BMJ
+  volume: 390
+  pages: e083305
+  doi: 10.1136/bmj-2024-083305
+  pdf: "https://www.bmj.com/content/390/bmj-2024-083305.full.pdf"
+  categories: [2025, artificial intelligence, large language models, reporting guideline]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Gallifant J, Afshar M, Ameen S, Aphinyanaphongs Y, Chen S, Cacciamani G, Demner-Fushman D, Dligach D, Deneshjou R, Fernandes C, Hansen L, Landman A, Lehmann L, McCoy L, Miller T, Moreno A, Munch N, Restrepo D, Savova G, Umeton R, Wawira Gichoya J, **Collins GS**, Moons KGM, Celi LA, Bitterman DS"
+  year: 2025
+  date: 2025-07-31
+  title: "The TRIPOD-LLM reporting guideline for studies using large language models: a Korean translation"
+  path: "https://doi.org/10.12771/emj.2025.00661"
+  journal: Ewha Medical Journal
+  volume: 48
+  pages: e49
+  doi: 10.12771/emj.2025.00661
+  pdf: "https://e-emj.org/upload/pdf/emj-2025-00661.pdf"
+  categories: [2025, artificial intelligence, large language models, reporting guideline]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Collins GS**, Moons KGM, Dhiman P, Riley RD, Beam AL, Van Calster B, Ghassemi M, Liu X, Reitsma JB, van Smeden M, Boulesteix AL, Camaradou JC, Celi LA, Denaxas S, Denniston AK, Glocker B, Golub RM, Harvey H, Heinze G, Hoffman MM, Kengne AP, Lam E, Lee N, Loder EW, Maier-Hein L, Mateen BA, McCradden MD, Oakden-Rayner L, Ordish J, Parnell R, Rose S, Singh K, Wynants L, Logullo P"
+  year: 2025
+  date: 2025-07-31
+  title: "TRIPOD+AI statement: an updated guideline for reporting clinical prediction models that use regression and machine learning methods: a Korean translation"
+  path: "https://doi.org/10.12771/emj.2025.00668"
+  journal: Ewha Medical Journal
+  volume: 48
+  pages: e48
+  doi: 10.12771/emj.2025.00668
+  pdf: "https://e-emj.org/upload/pdf/emj-2025-00668.pdf"
+  categories: [2025, artificial intelligence, large language models, reporting guideline]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Lopez-Ayala P, Riley RD, **Collins  GS**, Zimmermann T"
+  year: 2025
+  date: 2025-07-16
+  title: "Dealing with continuous variables and modelling non-linear associations in healthcare data: a practical guide"
+  path: "https://doi.org/10.1136/bmj-2024-082440"
+  journal: BMJ
+  volume: 390
+  pages: e082440
+  doi: 10.1136/bmj-2024-082440
+  pdf: "https://www.bmj.com/content/390/bmj-2024-082440.full.pdf"
+  categories: [2025, continuous predictors]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Riley RD, **Collins GS**, Whittle R, Archer L, Snell K, Dhiman P, Kirton L, Legha A, Liu X, Denniston A, Harrell Jr F, Wynants L, Martin GP, Ensor J"
+  year: 2025
+  date: 2025-07-08
+  title: "A decomposition of Fisher’s information to inform sample size for developing or updating fair and precise clinical prediction models for individual risk – part 1: binary outcomes"
+  path: "https://doi.org/10.1186/s41512-025-00193-9"
+  journal: Diagnostic and Prognostic Research
+  volume: 9
+  pages: 14
+  doi: 10.1186/s41512-025-00193-9
+  pdf: "https://link.springer.com/content/pdf/10.1186/s41512-025-00193-9.pdf"
+  categories: [2025, sample size, prediction models]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Hopewell S, Chan AW, **Collins GS**, Hróbjartsson A, Moher D, Schulz KF, Runn T, Aggarwal R, Berkwits M, Berlin JA, Bhandari N, Butcher NJ, Campbell MK, Chidebe R, Elbourne D, Farmer A, Fergusson D, Golub RM, Goodman SN, Hoffman T, Ioannidis JPA, Kahan BC, Knowles R, Lamb SE, Lewis S, Loder E, Offringa M, Ravaud P, Richards D, Rockhold FW, Schriger DL, Siegfried N, Staniszewska S, Taylor R, Thabane L, Torgerson D, Vohra S, White IR, Boutron I"
+  year: 2025
+  date: 2025-07-02
+  title: "CONSORT 2025 statement: updated guideline for reporting randomized trials: a Korean translation"
+  path: "https://doi.org/10.12771/emj.2025.00409"
+  journal: Ewha Medical Journal
+  volume: 38
+  pages: e50
+  doi: "10.12771/emj.2025.00409]"
+  pdf: "https://e-emj.org/upload/pdf/emj-2025-00409.pdf"
+  categories: [2025, reporting guideline, CONSORT, trial]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Logullo P, MacCarthy A, Kirtley S, Bullock GS, Dhiman P, Ma J, **Collins GS**"
+  year: 2025
+  date: 2025-06-30
+  title: "Quality of peer review of randomized controlled trials in oncology: an evaluation of open peer review reports"
+  path: "https://doi.org/10.1016/j.jclinepi.2025.111893"
+  journal: Journal of Clinical Epidemiology
+  volume: 185
+  pages: 111893
+  doi: 10.1016/j.jclinepi.2025.111893
+  pdf: "https://www.jclinepi.com/action/showPdf?pii=S0895-4356%2825%2900226-4"
+  categories: [2025, peer review, meta-science]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Ong JCL, Ning Y, **Collins  GS**, Bitterman DS, Ashley B, Chang TS, Denniston AK, Freyer O, Gilbert S, de Hond A, Leeuwenberg AM, Liang Z, Lim JCW, Liu M, Liu X, Longhurst CA, Ma Y, Qiu Y, Sarkar R, Sheng B, Singh K, Tan ISK, Tham YC, Thirunavukarasu AJ, Ting DSW, Vogel S, Zhang R, Zhao J, Chapman WW, Shah NH, Moons KGM, Wong TY, Liu N"
+  year: 2025
+  date: 2025-06-30
+  title: International Partnership for Governing Generative Artificial Intelligence Models in Medicin
+  path: "https://doi.org/10.1038/s41591-025-03787-4"
+  journal: Nature Medicine
+  volume: 31
+  pages: 2836-2839
+  doi: 10.1038/s41591-025-03787-4
+  pdf: "https://www.nature.com/articles/s41591-025-03787-4.pdf"
+  categories: [2025, artificial intelligence, large language models]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Nogaro MC, Hartshorn S, Brady M, Offiah A, Faust S, Firth G, Ma J, Dhiman P, O'Mahoney J, Davies L, Spowart C, Moscrop A, Young B, Tudur-Smith C, **Collins GS**, Perry DC, Theologis T"
+  year: 2025
+  date: 2025-06-10
+  title: "Development of a multi-centre cohort study to understand the role of MRI and ultrasound in the diagnosis of acute haematogenous bone and joint infection in children (the PIC Bone Study): a study protocol"
+  path: "https://doi.org/10.1302/2633-1462.66.BJO-2024-0277"
+  journal: Bone & Joint Open
+  volume: 6
+  pages: 677-684
+  doi: 10.1302/2633-1462.66.BJO-2024-0277
+  pdf: "https://boneandjoint.org.uk/Article/10.1302/2633-1462.66.BJO-2024-0277/pdf"
+  categories: [2025, protocol, prediction models]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Ewen JB, Babiloni C, **Collins GS**, Ethridge LE, Gotman J, Ikeda A, Karoly PJ, Potter WZ, Rampp S, Seeck M, Beniczky S"
+  year: 2025
+  date: 2025-06-18
+  title: The GREENBEAN checklist for reporting studies evaluating the effectiveness of EEG-based biomarkers
+  path: "https://doi.org/10.1016/j.clinph.2025.2110777"
+  journal: Clinical Neurophysiology
+  volume: 176
+  pages: 2110777
+  doi: 10.1016/j.clinph.2025.2110777
+  pdf: "https://www.sciencedirect.com/science/article/pii/S1388245725006297/pdfft?md5=b0dec578eb7cdf89b55b8d68247aabea&pid=1-s2.0-S1388245725006297-main.pdf"
+  categories: [2025, reporting guideline]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Rao S, Li Y, Mamouei M, Salimi-Khorshidi G, Wamil M, Nazarzadeh M, Yau C, **Collins GS**, Jackson R, Vickers A, Danaei G, Rahimi K."
+  year: 2025
+  date: 2025-06-02
+  title: Refined selection of individuals for preventive cardiovascular disease treatment with a transformer-based risk model
+  path: "https://doi.org/10.1016/j.landig.2025.03.005"
+  journal: Lancet Digital Health
+  volume: 7
+  issue: 6
+  pages: 100873
+  doi: 10.1016/j.landig.2025.03.005
+  pdf: "https://www.thelancet.com/action/showPdf?pii=S2589-7500%2825%2900055-X"
+  categories: [2025, prediction models, machine learning]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Lawrence NR, Bacila IA, **COllins GS**, Dawson J, Lang ZQ, Ji X, Ahmed SF, Alvi S, Bath L, Blair J, Cheetham T, Crowne EC, Davies JH, Dattani M, Gevers EF, Krone R, Patel L, Thankamony A, Randell T, Ryan F, Elford S, Blackett S, Krone N."
+  year: 2025
+  title: "National service evaluation of the quality of care for children and young people with congenital adrenal hyperplasia in the United Kingdom: survey responses from patients and clinicians"
+  path: "https://doi.org/10.1159/000537978"
+  journal: Hormone Research in Paediatrics
+  volume: 93
+  pages: 296-306
+  doi: 10.1159/000537978
+  categories: [2025]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Lusa L, Kappenberg F, **Collins GS**, Schmid M, Sauerbrei W, Rahnenfuhrer J"
+  year: 2025
+  date: 2025-07-01
+  title: Evaluation of changes in prediction modelling in biomedicine using systematic reviews
+  path: "https://doi.org/10.1186/s12874-025-02605-2"
+  journal: BMC Medical Research Methodology
+  volume: 25
+  pages: 167
+  doi: 10.1186/s12874-025-02605-2
+  pdf: "https://link.springer.com/content/pdf/10.1186/s12874-025-02605-2.pdf"
+  categories: [2025, prediction models, meta-science]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Chester-Jones M, Kirtley S, Er F, Jogarah V, Qiao Y, Tunn R, Vides N, Watkinson PJ, Knight M, Gerry S, **Collins  GS**."
+  year: 2025
+  date: 2025-06-12
+  title: Maternal early warning scores shown to be methodologically weak and at high risk of bias
+  path: "https://doi.org/10.1016/j.jclinepi.2025.111833"
+  journal: Journal of Clinical Epidemiology
+  volume: 184
+  pages: 111833
+  doi: 10.1016/j.jclinepi.2025.111833
+  pdf: "https://www.sciencedirect.com/science/article/pii/S0895435625001660/pdfft?md5=210c8ffbb6fefc703e36a976a20982d1&pid=1-s2.0-S0895435625001660-main.pdf"
+  categories: [2025, prediction models, meta-science]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Lawrence NR, Dawson J, Lang ZQ, Prete A, Baranowski ES, Schiffer L, Taylor AE, Brac de la Perriere A, Hirschberg AL, Juul A, Merke DP, Newell-Price JDC, Rees A, Reisch N, Stikkelbroeck M, Touraine PA, Krone N, Keevil B, **Collins GS**, Arlt W, Ross RJM."
+  year: 2025
+  date: 2025-05-20
+  title: Modelling adrenal steroid profiles to inform monitoring guidance in congenital adrenal hyperplasia
+  path: "https://doi.org/10.1016/j.ebiom.2025.105749"
+  journal: eBioMedicine
+  volume: 116
+  pages: 105749
+  doi: 10.1016/j.ebiom.2025.105749
+  pdf: "https://www.thelancet.com/action/showPdf?pii=S2352-3964%2825%2900193-8"
+  categories: [2025]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Lawrence NR, Bacila I, Tonge J, Dawson J, **Collins GS**, Lang ZQ, Bryce J, Alimussina M, Chen M, Ali SR, Adam S, van den Akker ELT, Bachega TASS, Baronio F, Birkebæk NH, Bonfig W, Claahsen-van der Grinten H, Cools M, Costa EC, Debono M, de Vries L, Flück C, Gazdagh G, Güven A, Hannema S, Iotova V, van der Kamp HJ, Krone R, Leka-Emiri S, Clemente-León M, Lichiardopol CR, Markosyan RL, Milenkovic T, Miranda MC, Neumann U, Newell-Price J, Poyrazoğlu S, Probst-Scheidegger U, Rey R, Russo G, de Sanctis L, Seneviratne SN, Stancampiano MR, Tadokoro-Cuccaro R, Thankamony A, Vieites A, Wasniewska M, Yeste D, Tomlinson JW, Ahmed SF, Krone N."
+  year: 2025
+  date: 2025-04-04
+  title: Blood pressure and its associations in 554 children and young people with congenital adrenal hyperplasia
+  path: "https://doi.org/10.1093/ejendo/lvaf060"
+  journal: European Journal of Endocrinology
+  volume: 192
+  issue: 5
+  pages: 529-539
+  doi: 10.1093/ejendo/lvaf060
+  pdf: "https://academic.oup.com/ejendo/article-pdf/192/5/529/62872264/lvaf060.pdf"
+  categories: [2025]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Struthers C, Harwood J, de Beyer JA, Logullo P, **Collins GS**"
+  year: 2025
+  date: 2025-03-14
+  title: "There is no reliable evidence that providing authors with customized article templates including items from reporting guidelines improves completeness of reporting: the GoodReports randomized trial (GRReaT)"
+  path: "https://doi.org/10.1186/s12874-025-02518-0"
+  journal: BMC Medical Research Methodology
+  volume: 25
+  pages: 71
+  doi: 10.1186/s12874-025-02518-0
+  pdf: "https://link.springer.com/content/pdf/10.1186/s12874-025-02518-0.pdf"
+  categories: [2025, reporting, trial]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Moons KGM, Damen JAA, Kaul T, Hooft L, Navarro CA, Dhiman P, Beam AL, Van Calster B, Celi L, Denaxas S, Denniston AK, Ghassemi M, Heinze G, Kengne AP, Maier-Hein L, Liu X, Logullo P, McCradden M, Nan L, Oakden-Rayner L, Singh K, Ting D, Wynants L, Yang B, Reitsma JB, Riley RD, **Collins GS**, van Smeden M"
+  year: 2025
+  date: 2025-03-24
+  title: "PROBAST+AI: an updated quality, risk of bias and applicability assessment tool for prediction models using regression or machine learning methods"
+  path: "https://doi.org/10.1136/bmj-2024-082505"
+  journal: BMJ
+  volume: 388
+  pages: e082505
+  doi: 10.1136/bmj-2024-082505
+  pdf: "https://www.bmj.com/content/388/bmj-2024-082505.full.pdf"
+  categories: [2025, risk of bias, artificial intelligence]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Bullock GS, Fallowfield JL, de la Motte SJ, Arden N, Fisher B, Dooley A, Forrest N, Fraser JJ, Gourlay A, Hando BR, Hayhurst D, Molloy JM, Newman PM, Robitaille E, Teyhen DS, Tiede JM, Williams E, Wiliams S, Van Tiggelen D, Van Wyngaarden JJ, Westrick RB, Emery CA, **Collins GS**, ROMMIL Group, Rhon DI."
+  year: 2025
+  title: Minimum Data Elements for surveillance and Reporting Of Musculoskeletal Injuries in the MILitary (ROMMIL) International Consensus Statement
+  path: "https://doi.org/10.1249/MSS.0000000000003737"
+  journal: Medicine & Science in Sports & Exercise
+  volume: 57
+  pages: 1914-1922
+  doi: 10.1249/MSS.0000000000003737
+  pdf: "https://journals.lww.com/acsm-msse/_layouts/15/oaks.journals/downloadpdf.aspx?trckng_src_pg=ArticleViewer&an=00005768-202509000-00009"
+  categories: [2025, reporting guideline]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Valsamis EM, Larsen JB, Thilleman TM, Gwilym SE, **Collins GS**, Mechlenburg I, Rees JL"
+  year: 2025
+  date: 2025-03-13
+  title: An international comparative study of shoulder replacement outcomes using linked national registry and hospital data from England and Denmark
+  path: "https://doi.org/10.1186/s12916-025-04003-3"
+  journal: BMC Medicine
+  volume: 23
+  pages: 180
+  doi: 10.1186/s12916-025-04003-3
+  pdf: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11948730/pdf/12916_2025_Article_4003.pdf"
+  categories: [2025]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Lekadir K, Frangi AF, Porras AR, Glocker B, Cintas C, Langlotz CP, Weicken E, Asselbergs FW, Prior F, **Collins GS**, Kaissis G, Tsakou G, Buvat I, Kalpathy-Cramer J, Mongan J, Schnabel JA, Kushibar K, Riklund K, Marias K, Amugongo LM, Fromont LA, Maier-Hein L, Cerda Alberich L, Marti-Bonmati L, Cardoso JM, Bobowicz M, Shabani M, Tsiknakis M, Zuluaga MA, Fritzsche MC, Camacho M, Linguraru MG, Wenzel M, De Bruijne M, Tolsgaard MG, Goisauf M, Abadia MC, Papanikolaou N, Lazrak N, Pujol O, Osuala R, Napel S, Joshi S, Klein S, Ausso S, Rogers WA, Puig-Bosch X, Salahuddin Z, Starmans MPA"
+  year: 2025
+  date: 2025-02-05
+  title: "FUTURE-AI: international consensus guideline for trustworthy and deployable artificial intelligence in healthcare"
+  path: "https://doi.org/10.1136/bmj-2024-081554"
+  journal: BMJ
+  volume: 388
+  pages: 81554
+  doi: 10.1136/bmj-2024-081554
+  pdf: "https://www.bmj.com/content/388/bmj-2024-081554.full.pdf"
+  categories: [2025, artificial intelligence]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Truchot A, Raynaud M, Helanterä I, Aubert O, Kamar N, Legendre C, Hertig A, Buchler M, Crespo M, Akalin E, Pujol GS, de Castro MCR, Matas AJ, Ulloa C, Jordan SC, Huang E, Juric I, Basic-Jukic N, Naesens M, Friedwald JJ, Silva Jr HT, Lefaucheur C, Segev DL, **Collins GS**, Loupy A."
+  year: 2025
+  title: Competing and Noncompeting Risk Models for Predicting Kidney Allograft Failure
+  path: "https://doi.org/10.1681/ASN.0000000517"
+  journal: Journal of the American Society of Nephrology
+  volume: 36
+  pages: 688-701
+  doi: 10.1681/ASN.0000000517
+  categories: [2025]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Gallifant J, Afshar M, Ameen S, Aphinyanaphongs Y, Chen S, Cacciamani G, Demner-Fushman D, Dligach D, Deneshjou R, Fernandes C, Hansen L, Landman A, Lehmann L, McCoy L, Miller T, Moreno A, Munch N, Restrepo D, Savova G, Umeton R, Wawira Gichoya J, **Collins GS**, Moons KGM, Celi LA, Bitterman DS"
+  year: 2025
+  date: 2025-01-08
+  title: The TRIPOD-LLM reporting guideline for studies using large language models
+  path: "https://doi.org/10.1038/s41591-024-03425-5"
+  journal: Nature Medicine
+  volume: 31
+  pages: 60-69
+  doi: 10.1038/s41591-024-03425-5
+  pdf: "https://www.nature.com/articles/s41591-024-03425-5.pdf"
+  categories: [2025, TRIPOD, artificial intelligence, large language models, reporting guideline]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Silva FM, Adegboye ARA, Naude C, Curioni C, Gomes F, **Collins GS**, Kac G, de Beyer JA, Cook J, Ismail LC, Page M, Khandpur N, Lamb SE, Hopewell S, Saleh S, Kirtley S, Bernardes S, Durao S, Colby VJ, Schlüssel MM"
+  year: 2025
+  title: "Describing the landscape of nutrition or diet-related randomized controlled trials: meta-research study of protocols published between 2012 and 2022"
+  path: "https://doi.org/10.1016/j.ajcnut.2025.01.016"
+  journal: American Journal of Clinical Nutrition
+  volume: 121
+  pages: 882-891
+  doi: 10.1016/j.acjnut.2025.01.016
+  pdf: "https://www.sciencedirect.com/science/article/pii/S0002916525000164/pdfft?md5=2fdebcb2867eba2f5948a83dbf9af220&pid=1-s2.0-S0002916525000164-main.pdf"
+  categories: [2025, meta-science]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Tsegaye B, Snell K, Archer L, Kirtley S, Riley RD, Sperrin M, Van Calster B, **Collins GS**, Dhiman P"
+  year: 2025
+  date: 2025-01-25
+  title: "Larger sample sizes are needed when developing a clinical prediction model using machine learning in oncology: methodological systematic review"
+  path: "https://doi.org/10.1016/j.jclinepi.2025.111675"
+  journal: Journal of Clinical Epidemiology
+  volume: 180
+  pages: 111675
+  doi: 10.1016/j.jclinepi.2025.111675
+  pdf: "https://www.jclinepi.com/action/showPdf?pii=S0895-4356%2825%2900008-3"
+  categories: [2025, prediction models, sample size, meta-science]

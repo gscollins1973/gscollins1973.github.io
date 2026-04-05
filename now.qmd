@@ -1,0 +1,48 @@
+---
+title: "Now"
+subtitle: "What I'm up to"
+title-block-banner: false
+---
+
+<!--This is my personal clarity, please delete or replace with your clarity-->
+
+<!-- {{< include /files/includes/_msclarity.qmd >}} -->
+
+A few things keep me busy these days:
+
+## Cycling
+
+-   When I'm not working, I'm usually out on my bike, or on Zwift during the winter and rainy days
+
+## Research
+
+::: callout-tip
+## Big picture question
+
+How can we achieve develop and evaluate clinical prediction models / predictive AI tools that are more:
+
+-   trustworthy
+-   accurate
+-   fair
+-   fit for purpose
+:::
+
+### I welcome collaborations on
+
+-   prediction model/predictive AI research
+
+    -   study design
+    -   model evaluation
+    -   fairness
+    -   implementation
+    -   reducing research waste
+    -   transparency
+    -   risk of bias
+
+-   reporting guidelines
+
+-   initiatives to monitor adherence reporting guidelines
+
+-   meta-science
+
+-   open science practices

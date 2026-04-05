@@ -1,0 +1,78 @@
+---
+title: "Gary S. Collins, PhD"
+subtitle: |
+  Professor of Medical Statistics\
+  125th Anniversary Chair \
+  University of Birmingham \
+  Email: g.s.collins@bham.ac.uk
+description-meta: "Gary Collins' research interests are primarily focused on methodological aspects in the development and fair evaluation of clinical prediction models (including machine learning) and has published extensively in this area (see research output or google scholar). His other research interests lie in improving the transparency, openness and quality of health research, where he leads the EQUATOR Network activities in the UK."
+image: "files/profile/Gary_COLLINS_Headshot.jpg"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 80%
+  links:
+    - text: UoB   # use image logo
+      href: https://research.birmingham.ac.uk/en/persons/gary-collins
+      target: _blank     
+    - icon: twitter-x
+      href: https://twitter.com/gscollins
+    - text: "{{< fa brands bluesky >}}"
+      href: https://bsky.app/profile/gscollins.bsky.social
+      target: _blank
+    - icon: linkedin
+      href: https://www.linkedin.com/in/gary-collins-4101a443/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gary-collins-4101a443/
+      target: _blank
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@gcollins2000uk     
+      target: _blank 
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed
+      href: https://orcid.org/0000-0002-2772-2316
+      target: _blank
+    - text: "{{< ai clarivate >}} Web of Science"
+      href: https://www.webofscience.com/wos/author/record/A-2258-2014
+      target: _blank
+    - text: "{{< ai scopus >}} Scopus"
+      href: https://www.scopus.com/authid/detail.uri?authorId=57944334400
+      target: _blank
+    - text: "![](/files/images/dimensions-logo.jpeg){width=15} Dimensions"  # use customize image or logo
+      href: https://app.dimensions.ai/details/entities/publication/author/ur.016076401572.36
+      target: _blank      
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=cVKF81gAAAAJ
+      target: _blank
+
+include-in-header: 
+  - file: files/includes/_mswebmaster.js
+---
+
+::: {#hero-heading}
+# Welcome
+
+I am a [125th Anniversary Chair](https://www.birmingham.ac.uk/research/125th-anniversary-fellows-and-chairs) and Professor of Medical Statistics in the [Department of Applied Health Sciences](https://www.birmingham.ac.uk/about/college-of-medicine-and-health/applied-health-sciences) at the [University of Birmingham](https://www.birmingham.ac.uk/). I am also the Director of [EQUATOR Network](https://www.equator-network.org/). In 2024, I was awarded [NIHR Senior Investigator](https://www.nihr.ac.uk/people/professor-gary-collins) status.
+
+Before joining the University of Birmingham in October 2025, I worked at the University of Oxford for 19 years, where I was a Professor of Medical Statistics.
+
+# **My research interests include**
+
+-   methodology for clinical prediction models (inc. predictive AI/machine learning)
+
+-   methodology for evaluation and fairness assessment of clinical prediction models
+
+-   reporting standards and guidelines
+
+-   research transparency
+
+-   meta-science
+
+-   open science
+:::

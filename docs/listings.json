@@ -1,0 +1,21 @@
+[
+  {
+    "listing": "/pub-listing/publications.html",
+    "items": []
+  },
+  {
+    "listing": "/pub-listing/publications_listing.html",
+    "items": []
+  },
+  {
+    "listing": "/publications.html",
+    "items": []
+  },
+  {
+    "listing": "/notes.html",
+    "items": [
+      "/notes/cuny-baruch-visiting-scholar-paperwork-guide.html",
+      "/notes/new-york-state-climate-policy.html"
+    ]
+  }
+]

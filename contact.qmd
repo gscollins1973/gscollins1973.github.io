@@ -1,0 +1,24 @@
+---
+title: "Contact"
+description-meta: "Reach out to me with questions and comments"
+title-block-banner: false
+#comments:
+# giscus: 
+#   repo: gscollins1973/gscollins1973.github.io
+---
+
+<center>
+
+**Gary Collins**
+
+Department of Applied Health Sciences
+
+University of Birmingham
+
+Birmingham
+
+United Kingdom
+
+Email: [g.s.collins\@bham.ac.uk](mailto:g.s.collins@bham.ac.uk){.email}
+
+</center>
