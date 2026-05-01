@@ -1,0 +1,71 @@
+---
+title: "Gary S. Collins, PhD"
+subtitle: |
+  125th Anniversary Chair \ 
+  Professor of Medical Statistics \
+  Department of Applied Health Sciences \
+  University of Birmingham \
+  Email: g.s.collins@bham.ac.uk
+description-meta: "Gary Collins is a medical statistician, researcher, and teacher. He is a Professor of Medical Statistics at the University of Birmimgham. His research interests are primarily focused on methodological aspects in the development and fair evaluation of clinical prediction models (including machine learning)."
+image: "files/images/Gary_COLLINS_Headshot.jpg"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 80%
+  links:
+    - text: UoB research page  # use image logo
+      href: https://research.birmingham.ac.uk/en/persons/gary-collins/
+      target: _blank     
+    - icon: github
+      text: Github
+      href: https://github.com/gscollins1973
+    - icon: twitter-x
+      text: X
+      href: https://x.com/GSCollins
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gary-collins-4101a443/
+      target: _blank
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed
+      href: https://orcid.org/0000-0002-2772-2316
+      target: _blank
+    - text: "{{< ai clarivate >}} Web of Science"
+      href: https://www.webofscience.com/wos/author/record/A-2258-20143  
+      target: _blank
+    - text: "{{< ai scopus >}} Scopus"
+      href: https://www.scopus.com/authid/detail.uri?authorId=57944334400
+      target: _blank
+    - text: "![](/files/images/dimensions-logo.jpeg){width=15} Dimensions"  # use customize image or logo
+      href: https://app.dimensions.ai/details/entities/publication/author/ur.013573776475.50
+      target: _blank      
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.co.uk/citations?hl=en&user=cVKF81gAAAAJ
+      target: _blank
+---
+
+::: {#hero-heading}
+# **Welcome!**
+
+I am a [125th Anniversary Chair](https://www.birmingham.ac.uk/research/125th-anniversary-fellows-and-chairs) and Professor of Medical Statistics in the [Department of Applied Health Sciences](https://www.birmingham.ac.uk/about/college-of-medicine-and-health/applied-health-sciences) at the [University of Birmingham](https://www.birmingham.ac.uk/). In 2024, I was awarded a [NIHR Senior Investigator](https://www.nihr.ac.uk/people/professor-gary-collins) award. I previously worked at the University of Oxford for 19 years, where I was a Professor of Medical Statistics and Director of the Centre for Statistics in Medicine.
+
+------------------------------------------------------------------------
+
+# **My research interests include**
+
+-   methodology for clinical prediction models (inc. predictive AI/machine learning)
+
+-   methodology for evaluation and fairness assessment of clinical prediction models
+
+-   reporting standards and guidelines
+
+-   research transparency
+
+-   meta-science
+
+-   open science
+:::

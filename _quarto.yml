@@ -1,0 +1,77 @@
+project:
+  type: website
+  output-dir: docs
+
+# Meta
+description-meta: "Gary Collins is a medical statistician, researcher, and teacher. He is a Professor of Medical Statistics at the University of Birmimgham. His research interests are primarily focused on methodological aspects in the development and fair evaluation of clinical prediction models (including machine learning)"
+author-meta: "Gary S. Collins"
+
+website:
+  title: "Professor Gary S. Collins"
+  image: "/files/images/Gary_COLLINS_Headshot.jpg"
+  description: "Gary Collins is a medical statistician, researcher, and teacher. He is a Professor of Medical Statistics at the University of Birmimgham. His research interests are primarily focused on methodological aspects in the development and fair evaluation of clinical prediction models (including machine learning)."
+ 
+  navbar:
+    background: light
+
+    left:
+      - text: Publications
+        href: publications.qmd
+      - text: TRIPOD
+        href: tripod.qmd
+      - text: Talks
+        href: talks.qmd
+      
+    right: 
+      - icon: github
+        href: https://github.com/gscollins1973
+        target: _blank
+      - text: "{{< fa brands bluesky >}} Bluesky"
+        href: https://bsky.app/profile/gscollins.bsky.social
+        target: _blank
+  
+  page-navigation: true
+  
+  page-footer: 
+    center: "[Gary Collins](https://github.com/gscollins1973) &copy; <script>document.write(new Date().getFullYear())</script>"
+  
+  search:
+    location: navbar
+    type: textbox
+  
+  reader-mode: false
+
+  draft-mode: unlinked
+  
+  repo-url: https://github.com/gscollins1973
+#  repo-actions: [edit, issue, source]
+  
+  open-graph: true
+  
+  twitter-card: true 
+#  card-style: summary      
+  
+  site-url: "https://github.com/gscollins1973"
+  
+#  google-analytics:
+ #   tracking-id: "G-G4DYZHP5J7"  # Please delete or replace with your own tracking ID
+  #  anonymize-ip: true 
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    link-external-filter: '^(?:http:|https:)\/\/gscollins1973\.github\.io\/custom'
+    include-in-header: "files/includes/_academic.qmd"
+

@@ -1,0 +1,50 @@
+---
+## First run: python xlsx_to_yml.py to convert publications.xlsx to publications.yml
+## then run quarto render to generate the publications.html file, need pub-listing.ejs and pub-listing.css in the same folder
+## Currently has redundant ::: code blocks end of listings, need to remove them in the html file
+title: "Publications"
+description-meta: "Information, PDFs, and metrics of papers"
+title-block-banner: false
+listing:
+  - id: selected-work
+    contents: publications.yml
+    type: custom
+    page-size: 100
+    categories: numbered
+    template: pub-listing.ejs
+    include:
+      section: "Selected Work"
+  - id: peer-reviewed
+    contents: publications.yml
+    type: custom
+    page-size: 100
+    categories: numbered
+    template: pub-listing.ejs
+    include:
+      section: "Peer-reviewed Journal Paper"
+css: pub-listing.css
+---
+
+<!-- {{< include /files/includes/_msclarity.qmd >}} -->
+{{< include /files/includes/_academic.qmd >}}
+
+Note: \* corresponding author; ![](/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%)
+
+Total citations as of February 2026:
+
+- [Web of Science](https://www.webofscience.com/wos/author/record/A-2258-2014): 56,478 (h-index = 101)
+- [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=cVKF81gAAAAJ): 92,159 (h-index = 123, i10-index = 3715)
+
+## Selected Work
+
+::: {#selected-work}
+
+
+## Peer-reviewed Journal Papers
+
+::: {#peer-reviewed}
+
+
+
+
+{{< include /files/includes/_socialshare.qmd >}}
