@@ -57,7 +57,7 @@ I am a [125th Anniversary Chair](https://www.birmingham.ac.uk/research/125th-ann
 
 # **My research interests include**
 
--   methodology for clinical prediction models (incl. predictive AI/machine learning for healthcare)
+-   methodology for developing linical prediction models (incl. predictive AI/machine learning for healthcare)
 
 -   methodology for evaluation and fairness assessment of clinical prediction models
 
