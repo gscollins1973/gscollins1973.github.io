@@ -49,7 +49,7 @@ about:
 ---
 
 ::: {#hero-heading}
-# **Welcome**
+# **Welcome!**
 
 I am a [125th Anniversary Chair](https://www.birmingham.ac.uk/research/125th-anniversary-fellows-and-chairs) and Professor of Medical Statistics in the [Department of Applied Health Sciences](https://www.birmingham.ac.uk/about/college-of-medicine-and-health/applied-health-sciences) at the [University of Birmingham](https://www.birmingham.ac.uk/). In 2024, I was awarded a [NIHR Senior Investigator](https://www.nihr.ac.uk/people/professor-gary-collins) award. I previously worked at the University of Oxford for 19 years, where I was a Professor of Medical Statistics and Director of the Centre for Statistics in Medicine.
 
